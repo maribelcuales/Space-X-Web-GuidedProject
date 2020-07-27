@@ -62,3 +62,4 @@ test('Render list of missions after API call', () => {
   // assert that they are listed on the DOM 
   expect(missions).toHaveLength(2);
 }); 
+
